@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[seeing our animal companions for who they really are]]></title>
         <description><![CDATA[seeing our animal companions for who they really are]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://animalaccord.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Apr 2016 14:07:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 02:21:45 GMT</lastBuildDate>
+        <atom:link href="http://animalaccord.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Brave Rescuers Help Bear Who Had Bucket Stuck On His Head For A Month]]></title>
+            <description><![CDATA[<article><h1>Brave Rescuers Help Bear Who Had Bucket Stuck On His Head For A Month</h1><p>A bear, a bucket and a bunch of friends is a recipe for freedom. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe51ca3045d0fd3be544dbee9d280731120e79a6.jpg"></article>]]></description>
+            <link>http://www.reshareworthy.com/bear-with-bucket-on-head-helped/</link>
+            <guid isPermaLink="false">12978e3d-9c92-4805-99e2-6c98fed3b01d</guid>
+            <pubDate>Sun, 24 Apr 2016 02:21:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Animal Accord accord (v.) early 12c., from Old French acorder (12c.) “reconcile, agree, be in harmony,” literally “be of one heart, bring heart to heart,“</p>]]></description>
-            <link>undefinedanimal-accord-accord-v-early-12c-from-old-french-acor/index.html</link>
+            <link>http://animalaccord.com/animal-accord-accord-v-early-12c-from-old-french-acor/index.html</link>
             <guid isPermaLink="false">8a404b9e-017e-45e8-8b9e-ae9a43766701</guid>
             <pubDate>Sat, 23 Apr 2016 14:07:40 GMT</pubDate>
         </item>
